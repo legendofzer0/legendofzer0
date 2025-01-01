@@ -1,7 +1,13 @@
 ## Hi there I'm Jensih👋
 
-just learning everything that inteast me
+  just learning everything that interest me
 
+      AI/ML
+      WEB DEVELOPMENT
+      GAME DEV
+      SYSTEMS
+
+📫 How to reach me jenishmhrz123@gmail.com
 <!--
 **legendofzer0/legendofzer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
