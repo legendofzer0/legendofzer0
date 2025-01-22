@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jenish Maharjan</h1>
 <h3 align="center">A passionate developer who is leaning a lot from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legendofzer0" alt="legendofzer0" /></a> </p>
+<p align="left">[![trophy](https://github-profile-trophy.vercel.app/?username=legendofzer0)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 - 🌱 I’m currently learning **python , react native , spring boot, golang**
 
